@@ -1,0 +1,35 @@
+Last login: Tue Feb 20 19:29:38 on ttys000
+alcytorres@Alcys-MBP Start % cd /Users/alcytorres/Documents/Start
+
+alcytorres@Alcys-MBP Start % cd /Users/alcytorres/Documents/Start
+
+alcytorres@Alcys-MBP Start % git config --global credential.helper store
+alcytorres@Alcys-MBP Start % 
+alcytorres@Alcys-MBP Start % git config --global credential.helper store
+alcytorres@Alcys-MBP Start % 
+
+
+
+
+
+
+
+
+  [Restored Feb 25, 2024 at 11:13:05 PM]
+Last login: Sun Feb 25 23:13:05 on ttys000
+alcytorres@Alcys-MBP Start % 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
